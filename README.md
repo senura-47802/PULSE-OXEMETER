@@ -1,2 +1,2 @@
 # PULSE-OXEMETER
-Arduino codes to make pulse oximeter
+Arduino codes to make pulse oximeter.
